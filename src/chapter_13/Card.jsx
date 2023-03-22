@@ -1,5 +1,5 @@
 function Card(props){
-    const { title, backgroundColor, color, children} =props;
+    const { title, backgroundColor, children} =props;
 
     return (
         <div
